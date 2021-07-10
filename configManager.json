@@ -1,0 +1,9 @@
+
+"prefix": "prefix_here", 
+"token": "token_here", 
+"extensions": ["cogs.admin", "cogs.general", "cogs.info", "cogs.looptasks", "cogs.promo", "cogs.errorHandler", "cogs.statusUpdate"], 
+"user": "user_here", 
+"password": "password_here", 
+"database": "database_name_here", 
+"host": "database_ip_here"
+}
